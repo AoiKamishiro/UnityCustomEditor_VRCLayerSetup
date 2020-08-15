@@ -6,7 +6,7 @@
 <li>VRCSDK</li>
 </ul>
 <H3>※起動方法</H3>
-<a>Tppls/Kamishiro/VRCLayerSetup から起動できます。</a>
+<a>Tools/Kamishiro/VRCLayerSetup から起動できます。</a>
 <H3>プログラムについて</H3>
 <a>VRChat用のレイヤー設定をセットアプ出来ない、Avatar3.0用SDKでレイヤーをセットアップできます。</a>
 <H4>レイヤー設定をするメリット</H4>
